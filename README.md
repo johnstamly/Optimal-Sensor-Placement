@@ -1,5 +1,10 @@
 # Optimal Sensor Placement
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12180851.svg)](https://doi.org/10.5281/zenodo.12180851)
+
+
+
 This repository contains a Python script for optimal sensor placement for dynamic messurments (strain, accelerations) using the Fisher Spectral Radius criterion.
 
 ## Description
@@ -76,3 +81,9 @@ Laboratory of Applied Mechanics and Vibrations
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
