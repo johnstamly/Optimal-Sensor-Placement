@@ -18,7 +18,7 @@ If you use this software, please cite it as:
   year         = {2024},
   month        = {June},
   note         = {Release 1.0.0, 20th June 2024},
-  url          = {https://github.com/username/fisher-spectral-sensor-placement},
+  url          = {https://github.com/johnstamly/Optimal-Sensor-Placement},
   doi          = {10.5281/zenodo.12180591}
 }
 ```
