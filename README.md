@@ -5,7 +5,7 @@
 
 
 
-This repository contains a Python script for optimal sensor placement using the Fisher Spectral Radius criterion. The code was inspired by the paper ["Strain sensors optimal placement for vibration-based structural health monitoring. The effect of damage on the initially optimal configuration"](https://www.sciencedirect.com/science/article/pii/S0022460X17306259) by Loutas T.H. and Bourikas A.
+This repository contains a Python script for optimal dynamic sensor placement using the Fisher Spectral Radius criterion. The code was inspired by the paper of Loutas T.H. and Bourikas A [[1]](#1).
 
 ## Citation
 
@@ -26,7 +26,7 @@ If you use this software, please cite it as:
 
 ## Description
 
-The script performs optimal sensor placement in a Finite Element Model (FEM) based on the Fisher Spectral Radius criterion. It aims to find the optimal locations for placing sensors to maximize the information gained from the system.
+The script performs optimal sensor placement in a Finite Element Model (FEM) based on the Fisher Spectral Radius criterion. It aims to find the minimum number of sensors and their optimal locations to maximize information and guarantee the capture of all varieties of modal information by introducing redundancy and convergence criteria.
 
 ## Features
 
@@ -94,6 +94,10 @@ The script will output the following results:
 
 University of Patras, Department of Mechanical Engineering & Aeronautics,
 Laboratory of Applied Mechanics and Vibrations
+
+## References
+<a id="1">[1]</a> 
+Loutas, T. H., & Bourikas, A. (2017). Strain sensors optimal placement for vibration-based structural health monitoring. The effect of damage on the initially optimal configuration. Journal of Sound and Vibration, 410, 217-230. https://doi.org/10.1016/j.jsv.2017.08.033
 
 ## License
 
