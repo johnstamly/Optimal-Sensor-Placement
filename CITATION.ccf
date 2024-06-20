@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Stamatelatos"
+    given-names: "Giannis"
+    orcid: "https://orcid.org/0009-0009-3560-6639"
+title: "Optimal Dynamic Sensor Placement"
+version: 1.0.0
+doi: 10.5281/zenodo.12180851
+date-released: 2024-06-20
+url: "https://github.com/johnstamly/Optimal-Sensor-Placement"
