@@ -26,23 +26,25 @@ The script performs optimal sensor placement in a Finite Element Model (FEM) bas
 ## Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/johnstamly/optimal-sensor-placement.git
-
+```
 
 2. Install the required dependencies:
-
+```
 pip install numpy h5py tqdm prettytable
-
+```
 
 ## Usage
 
-1. Prepare the eigenvector matrices `T1.mat` and `T2.mat` and place them in the same directory as the script.
-
-2. Run the script:
-
-python optimal_sensor_placement.py
-
+1. Prepare the eigenvector matrices (e.g. `T1.mat` and `T2.mat`) and place them in the same directory as the script.
+   (T1.mat and T2.mat are provided as an example. They contain the 10 first strain eigen modes of x and y axis respectively for each d.o.f.
+   You can use also z-axis by changing the "dim" parameter)
+   
+3. Run the script:
+```
+ python optimal_sensor_placement.py
+```
 
 3. Enter the desired convergence error and initial sensor count when prompted.
 
