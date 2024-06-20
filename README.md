@@ -1,6 +1,6 @@
 # Optimal Sensor Placement
 
-This repository contains a Python script for optimal sensor placement using the Fisher Spectral Radius criterion.
+This repository contains a Python script for optimal sensor placement for dynamic messurments (strain, accelerations) using the Fisher Spectral Radius criterion.
 
 ## Description
 
