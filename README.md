@@ -7,6 +7,23 @@
 
 This repository contains a Python script for optimal sensor placement for dynamic messurments (strain, accelerations) using the Fisher Spectral Radius criterion.
 
+## Citation
+
+If you use this software, please cite it as:
+
+```bibtex
+@misc{STAMATELATOS2024ODSP,
+  author       = {Giannis Stamatelatos},
+  title        = {Optimal Dynamic Sensor Placement},
+  year         = {2024},
+  month        = {June},
+  note         = {Release 1.0.0, 20th June 2024},
+  url          = {https://github.com/username/fisher-spectral-sensor-placement},
+  doi          = {10.5281/zenodo.12180591}
+}
+```
+
+
 ## Description
 
 The script performs optimal sensor placement in a Finite Element Model (FEM) based on the Fisher Spectral Radius criterion. It aims to find the optimal locations for placing sensors to maximize the information gained from the system.
