@@ -97,7 +97,7 @@ Laboratory of Applied Mechanics and Vibrations
 
 ## References
 <a id="1">[1]</a> 
-Loutas, T. H., & Bourikas, A. (2017). Strain sensors optimal placement for vibration-based structural health monitoring. The effect of damage on the initially optimal configuration. Journal of Sound and Vibration, 410, 217-230. https://doi.org/10.1016/j.jsv.2017.08.033
+Loutas, T. H., & Bourikas, A. (2017). Strain sensors optimal placement for vibration-based structural health monitoring. The effect of damage on the initially optimal configuration. Journal of Sound and Vibration, 410, 217-230. https://doi.org/10.1016/j.jsv.2017.08.022
 
 ## License
 
